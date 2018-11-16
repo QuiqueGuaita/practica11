@@ -1,0 +1,55 @@
+
+    aside{ 
+    border: 0px black solid;
+    border-block-end-color: rgb(0, 0, 0);
+    background:border-box 2px;
+    margin-right: 900px;
+    margin-top:0px;
+    padding-bottom:600px ; 
+    }
+  
+   
+    div{
+        border:0px black solid;
+        background-color:eige;
+        text-align: center;
+        margin-left: 260px;
+       
+    }
+}
+
+    
+}
+    h1 {
+        text-align: center;
+        color:#722f08;
+    }
+    body {
+        background-color: white;
+    }
+      p.color {
+          color:#af4608
+      }
+    
+    table, th, td {
+        border: 1px solid white);
+         width:50%;padding:5px;
+        
+    
+    }
+        th {padding: 5px;background-color: white}
+        td {color: gray}
+        tr {color: black}
+    
+   
+    
+  
+    
+      
+      
+      
+    
+           
+       
+              
+              
